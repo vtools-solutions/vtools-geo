@@ -1,0 +1,5 @@
+homepage: "https://vtools.com.br"
+documentation: "https://vtools.com.br/api/v1"
+versions:
+  - sha: 88cc9a33f13334008304fac9daa2ae7b1b380666
+    changeNotes: Initial release
