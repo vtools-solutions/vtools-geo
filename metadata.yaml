@@ -1,8 +1,8 @@
 homepage: "https://vtools.com.br"
 documentation: "https://vtools.com.br/#!/geo-location/"
 versions:
-# Latest version
-  - sha: 7cb916e7e703bd2d69bd30972b6d22300e97ebb6
+  # Latest version
+  - sha: 9d71c92feb1b442ddd435799c0d3afdaddac8b53
     changeNotes:Fix bug API methods.
   - sha: 4a9b6b11e2d145bc50f03a81839a36ae1336570e
     changeNotes: Initial release
