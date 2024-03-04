@@ -9,6 +9,8 @@ Google may provide), as modified from time to time.
 ___INFO___
 
 {
+  "displayName": "Vtools Geo Location",
+  "categories": ["LEAD_GENERATION"],
   "type": "TAG",
   "id": "cvt_temp_public_id",
   "version": 1,
